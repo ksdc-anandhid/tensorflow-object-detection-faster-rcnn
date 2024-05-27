@@ -1,0 +1,10 @@
+item {
+    name: "missing",
+    id: 1,
+    display_name: "missing"
+}
+item {
+    name: "product",
+    id: 2,
+    display_name: "product"
+}
